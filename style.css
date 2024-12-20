@@ -127,7 +127,6 @@ footer p {
 }
 header a:hover {
     color: black;
+     transition: 1s;
 }
-header a {
-    transition: 1s;
-}
+
